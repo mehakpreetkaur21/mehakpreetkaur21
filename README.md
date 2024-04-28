@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehakpreetkaur21
-- 👀 I’m interested in Cybersecurity, Django and react native
-- 🌱 I’m currently learning react native
+- 👀 I’m interested in Django , Machine Learning and CyberSecurity
+- 🌱 I’m currently learning Machine learning
 - 📫 How to reach me @kmehakpreet001@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
